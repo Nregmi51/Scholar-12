@@ -1,0 +1,12 @@
+{
+  "appId": "com.scholar12.grade12study",
+  "appName": "Scholar12",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

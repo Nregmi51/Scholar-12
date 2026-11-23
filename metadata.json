@@ -1,0 +1,6 @@
+{
+  "name": "Scholar12 — Grade 12 GitHub Study Reader",
+  "description": "Offline-first Grade 12 study reader synced directly from GitHub repositories with subject navigation, module progress tracking, and periodic auto-sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
